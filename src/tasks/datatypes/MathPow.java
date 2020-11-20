@@ -5,4 +5,5 @@ public class MathPow {
         double result = Math.pow(3, 2);
         System.out.println(result);
     }
+
 }
